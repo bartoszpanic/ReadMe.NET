@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMe.NET.Domain", "ReadMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMe.NET.Application", "ReadMe.NET.Application\ReadMe.NET.Application.csproj", "{7BACB635-27C2-43E3-81B4-6DF97C316346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMe.NET.Persistance", "ReadMe.NET.Persistance\ReadMe.NET.Persistance.csproj", "{C556BACC-51B7-486D-BD4B-27C05C720C4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMe.NET.Persistence", "ReadMe.NET.Persistance\ReadMe.NET.Persistence.csproj", "{C556BACC-51B7-486D-BD4B-27C05C720C4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
